@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutputCacheIssue", "OutputCacheIssue\OutputCacheIssue.csproj", "{CE675F43-999D-4BDB-B490-7AAE395C6965}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE675F43-999D-4BDB-B490-7AAE395C6965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE675F43-999D-4BDB-B490-7AAE395C6965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE675F43-999D-4BDB-B490-7AAE395C6965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE675F43-999D-4BDB-B490-7AAE395C6965}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4A4E23B-7CC9-4CD7-B2DE-D954C5D6C833}
+	EndGlobalSection
+EndGlobal
